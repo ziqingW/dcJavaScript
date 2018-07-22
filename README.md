@@ -1,2 +1,2 @@
 # dcJavaScript
-exercise for DigitalCraft JavaScript
+Exercises for JavaScript class from DigitalCrafts 
